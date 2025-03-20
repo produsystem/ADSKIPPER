@@ -11,3 +11,5 @@ Instalación del Complemento en Chrome de google
 4. Haz clic en "Cargar extensión descomprimida" y selecciona la carpeta del Complemento.
 
 5. Accede a YouTube para probar el complemento.
+
+si aparecen video que se cargan sin contador actualiza la pagina inmetamente para saltarlo.
